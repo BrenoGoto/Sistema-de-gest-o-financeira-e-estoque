@@ -18,8 +18,3 @@ O projeto adota a arquitetura Full-Stack:
 - **Banco de Dados:** MySQL (Persistência de dados, relacionamentos e consultas estruturadas).
 - **Comunicação:** APIs RESTful para integração robusta entre a interface e o servidor de banco de dados.
 
-Como executar o projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/insanus-cellsystem.git](https://github.com/SEU-USUARIO/insanus-cellsystem.git)
